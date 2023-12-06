@@ -25,6 +25,9 @@ The Municipal Database System is a Java application designed to manage and store
 
 ![Screenshot 6](https://github.com/vikasharma005/Municipal-Database-System/blob/main/img/ss6.png)
 
+![Screenshot 7](https://github.com/vikasharma005/Municipal-Database-System/blob/main/img/ss7.png)
+
+
 ## Requirements
 
 To run this project, you need:
