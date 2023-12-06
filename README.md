@@ -23,6 +23,8 @@ The Municipal Database System is a Java application designed to manage and store
 
 ![Screenshot 5](https://github.com/vikasharma005/Municipal-Database-System/blob/main/img/ss5.png)
 
+![Screenshot 6](https://github.com/vikasharma005/Municipal-Database-System/blob/main/img/ss6.png)
+
 ## Requirements
 
 To run this project, you need:
@@ -39,7 +41,7 @@ To run this project, you need:
    git clone https://github.com/vikasharma005/Municipal-Database-System.git
    ```
 
-2. **Create a MySQL database and configure the connection details in the `config.properties` file.**
+2. **Create a MySQL database**
 
 3. **Compile the Java code:**
 
@@ -52,10 +54,6 @@ To run this project, you need:
    ```bash
    java -cp .:path/to/mysql-connector-java.jar Main
    ```
-
-## Usage
-
-- Upon running the application, follow the on-screen instructions to perform various database operations.
 
 ## Contributing
 
