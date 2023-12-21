@@ -36,28 +36,6 @@ To run this project, you need:
 - MySQL Database Server
 - JDBC Driver for MySQL
 
-## Setup
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/vikasharma005/Municipal-Database-System.git
-   ```
-
-2. **Create a MySQL database**
-
-3. **Compile the Java code:**
-
-   ```bash
-   javac -cp .:path/to/mysql-connector-java.jar Main.java
-   ```
-
-4. **Run the application:**
-
-   ```bash
-   java -cp .:path/to/mysql-connector-java.jar Main
-   ```
-
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
